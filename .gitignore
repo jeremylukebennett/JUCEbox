@@ -1,0 +1,32 @@
+# Build files
+Builds/*/build/
+*.o
+*.a
+*.dylib
+*.so
+*.dll
+
+# Xcode
+*.xcuserstate
+*.xcworkspacedata
+xcuserdata/
+DerivedData/
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
